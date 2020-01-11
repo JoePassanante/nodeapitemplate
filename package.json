@@ -1,0 +1,20 @@
+{
+  "name": "nodeapiframework",
+  "version": "1.0.0",
+  "description": "Template for building a de-coupled application. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "Joe Passanante",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
